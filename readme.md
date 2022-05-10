@@ -1,8 +1,5 @@
-# Sokobon
 
-Ce dépot contient une version de Sokoban écrite en JavaScript.
-Pour y jouer, ouvrez le fichier 'index.html' dans votre navigateur préféré
+# Sokoban JS
 
-## Auteur
+Here is a little sokoban game coded in **JavaScript** (*jQuery*).
 
-Ce jeu vous est proposé par 'DRAYEF Mohamed Amin'
